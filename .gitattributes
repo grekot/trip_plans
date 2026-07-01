@@ -1,0 +1,2 @@
+# Zaszyfrowane pliki traktuj jak binarne — bez konwersji końcówek linii.
+*.enc -text

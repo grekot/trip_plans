@@ -1,0 +1,7 @@
+# NIGDY nie commituj plików jawnych ani hasła — repo jest publiczne.
+# Dozwolone są tylko zaszyfrowane *.enc + README.
+*.json
+passphrase*
+*.txt
+*-decrypted*
+*-check*
